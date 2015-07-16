@@ -1,2 +1,2 @@
 # hello-world
-Just ano
+Just another repository
